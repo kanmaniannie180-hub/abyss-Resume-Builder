@@ -1,314 +1,660 @@
 # 🌌 Abyss — AI Resume & Portfolio Builder
 
-**Abyss** is an AI-powered resume and portfolio builder that helps users create **ATS-optimized resumes**, detect **bias in content**, generate **professional portfolios**, and share profiles using **QR codes**.
+<div align="center">
 
-It provides **domain-adaptive templates**, intelligent suggestions, and **dual resume versions (Resume Twin)** for role-specific customization.
+![AI Powered](https://img.shields.io/badge/AI-Powered-blue)
+![Resume Builder](https://img.shields.io/badge/Resume-Builder-green)
+![Portfolio Generator](https://img.shields.io/badge/Portfolio-Automated-orange)
+![ATS Optimized](https://img.shields.io/badge/ATS-Optimized-success)
+![Bias Detection](https://img.shields.io/badge/Bias-Detection-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
----
+### 🚀 Intelligent Resume Creation • ATS Optimization • Portfolio Generation • Career Enhancement
 
-## 🚀 Features
+### An AI-Powered Platform for Building Professional Resumes, Portfolios, and Career Profiles
 
-### 🧠 AI Resume Assistant
-- Context-aware resume suggestions  
-- Domain-specific writing guidance  
-- Auto-fill resume from prompts  
-- Keyword-based optimization  
-
----
-
-### 📄 Resume & CV Builder
-- Real-time resume editor  
-- Live preview panel  
-- ATS-friendly formatting  
-- PDF export (CV & Resume)  
-- Multiple professional templates  
+</div>
 
 ---
 
-### 👥 Resume Twin (A/B Resumes)
-Create **two independent resume versions** from one base profile.
+# 📖 Overview
 
-Each version includes:
-- Role-specific customization  
-- Independent templates  
-- Separate export  
-- Individual QR codes  
+In today's competitive job market, candidates often struggle with creating resumes that satisfy Applicant Tracking Systems (ATS), showcase their skills effectively, and remain free from unconscious bias. Many professionals also lack a centralized platform to maintain both their resume and personal portfolio.
 
----
+**Abyss** addresses these challenges through an AI-powered ecosystem that combines resume generation, ATS optimization, portfolio creation, bias detection, and intelligent career guidance into a single unified platform.
 
-### 🎨 Domain-Adaptive Templates
-Templates automatically adjust:
-- Section headers  
-- Skills structure  
-- Content style  
-- Layout emphasis  
+The platform enables users to:
 
-**Supported domains**
-IT, Management, Arts, Education, Culinary, Music, Sports, Academic, Security, Healthcare, Teaching, Project Management
+* 📄 Create ATS-friendly resumes
+* 🌐 Generate professional portfolio websites
+* 🤖 Receive AI-powered content suggestions
+* ⚖️ Detect bias and improve inclusivity
+* 📊 Analyze ATS compatibility scores
+* 🔗 Share profiles through QR codes
+* 👥 Maintain multiple role-specific resumes
+
+Abyss transforms resume creation from a static document-building process into an intelligent career development experience.
 
 ---
 
-### 🧾 Portfolio Generator
-- Auto-generated personal portfolio website  
-- Resume data → website sections  
-- Profile photo sync  
-- Contact actions (Email, WhatsApp, Call)  
-- Shareable portfolio link  
+# 🎯 Project Objectives
+
+The primary goals of Abyss are:
+
+### 📄 Resume Optimization
+
+* Simplify resume creation.
+* Improve ATS compatibility.
+* Generate professional content automatically.
+
+### 🤖 AI Assistance
+
+* Provide intelligent suggestions.
+* Improve resume quality.
+* Personalize content by domain.
+
+### 🌐 Portfolio Development
+
+* Convert resume information into websites.
+* Create professional online presence.
+* Enable easy profile sharing.
+
+### ⚖️ Fairness and Inclusivity
+
+* Detect potential biases.
+* Promote objective resume writing.
+* Encourage inclusive language.
+
+### 📈 Career Growth
+
+* Offer job readiness insights.
+* Identify skill gaps.
+* Improve employability.
 
 ---
 
-### 🧪 ATS Optimization Engine
-- ATS score calculation  
-- Section-wise scoring  
-- Keyword density analysis  
-- Missing content detection  
-- Improvement suggestions  
+# ❓ Problem Statement
+
+Job seekers face several common challenges:
+
+### ATS Rejection
+
+Many resumes fail ATS screening due to:
+
+* Missing keywords
+* Improper formatting
+* Poor section organization
 
 ---
 
-### ⚖️ Bias Detection Engine
-- Gender bias detection  
-- Age bias detection  
-- Subjective language detection  
-- Photo bias flag  
-- Resume heatmap visualization  
+### Generic Resume Content
+
+Candidates often struggle to:
+
+* Write impactful summaries
+* Highlight achievements
+* Tailor resumes for specific roles
 
 ---
 
-### 📊 Career Insights
-- Salary estimation by domain  
-- Job match suggestions  
-- Skill gap insights  
-- Domain-specific improvement tips  
+### Lack of Portfolio Presence
+
+Many professionals:
+
+* Do not maintain portfolios
+* Lack online visibility
+* Miss networking opportunities
 
 ---
 
-### 🔗 Sharing & QR
-- QR for CV PDF  
-- QR for Resume PDF  
-- QR for Portfolio  
-- Share to LinkedIn  
-- Naukri redirect & upload  
+### Resume Bias
+
+Traditional resume writing may unintentionally include:
+
+* Gender bias
+* Age bias
+* Subjective language
+* Exclusionary wording
 
 ---
 
-## 🧩 Architecture
+### Role-Specific Applications
 
-### Frontend
-- React  
-- Tailwind CSS / CSS Modules  
-- Component-based editor  
+Applicants frequently need:
 
-### AI Layer
-- Prompt-driven suggestions  
-- Keyword mapping engine  
-- Bias detection rules  
+* Different resumes for different roles
+* Customized skills sections
+* Separate professional profiles
 
-### Data
-- Local storage persistence  
-- Resume A/B state  
-- Template metadata  
-
-### Export
-- HTML → PDF rendering  
-- QR generation  
+Abyss addresses these challenges through intelligent automation and AI-driven personalization.
 
 ---
 
-## 🖥️ Application Pages
-- Splash / Landing  
-- Login / Signup (Google + Email OTP)  
-- Dashboard  
-- Template Library  
-- Resume Editor  
-- ATS Analysis  
-- Bias Analysis  
-- Portfolio Page  
-- Outputs & Export  
+# ✨ Core Features
+
+## 🧠 AI Resume Assistant
+
+The AI Resume Assistant provides intelligent recommendations during resume creation.
+
+### Capabilities
+
+* Context-aware suggestions
+* Auto-generated summaries
+* Achievement rewriting
+* Professional wording improvements
+* Keyword optimization
+
+### Benefits
+
+* Faster resume creation
+* Improved readability
+* Higher ATS compatibility
 
 ---
 
-## 🧠 Resume Twin Concept
+# 📄 Resume & CV Builder
 
-Abyss supports **parallel resume versions**:
+Abyss includes a professional resume editor featuring:
 
-**Resume A** → Example: IT Role  
-**Resume B** → Example: Management Role  
+### Features
+
+* Real-time editing
+* Live preview
+* ATS-friendly formatting
+* PDF export
+* Multiple layouts
+
+### Supported Outputs
+
+* Resume PDF
+* CV PDF
+* Web Portfolio
+
+---
+
+# 👥 Resume Twin (A/B Resume System)
+
+One of Abyss's unique innovations is the **Resume Twin Engine**.
+
+Users can maintain:
+
+### Resume A
+
+Example:
+
+```text
+Software Engineer
+Data Analyst
+AI Engineer
+```
+
+### Resume B
+
+Example:
+
+```text
+Project Manager
+Business Analyst
+Operations Executive
+```
 
 Each resume includes:
-- Independent template  
-- Domain-specific headers  
-- Unique skills & experience  
-- Separate export  
-- Individual QR code  
+
+* Independent template
+* Unique skills
+* Different experience emphasis
+* Separate exports
+* Dedicated QR codes
 
 ---
 
-## 🎨 Templates
+# 🎨 Domain-Adaptive Templates
 
-12 domain-specific templates featuring:
-- Unique typography  
-- Color themes  
-- Layout styles  
-- ATS compatibility  
-- Optional photo  
+Templates dynamically adapt to the user's profession.
 
-**Examples**
-- Modern Pro (IT)  
-- Executive (Management)  
-- Creative Flow (Arts)  
-- Minimal Edge (Education)  
-- Culinary Craft  
-- Sports Elite  
-- Healthcare Care  
-- Academic Scholar  
-- Security Guard  
-- Music Harmony  
-- Teaching Mentor  
-- Project Leader  
+### Adjustments Include
+
+* Section titles
+* Content structure
+* Skills layout
+* Visual hierarchy
 
 ---
 
-## 🔍 Domain-Adaptive Resume Structure
+## Supported Domains
 
-Section names change automatically based on profession.
-
-**IT**
-- Professional Summary  
-- Technical Skills  
-- Projects  
-- Experience  
-
-**Sports**
-- Athletic Profile  
-- Sports Skills  
-- Competitions  
-- Training  
-
-**Culinary**
-- Culinary Profile  
-- Kitchen Experience  
-- Signature Dishes  
+| Domain             | Example Template |
+| ------------------ | ---------------- |
+| IT                 | Modern Pro       |
+| Management         | Executive Elite  |
+| Arts               | Creative Flow    |
+| Education          | Minimal Edge     |
+| Healthcare         | Healthcare Care  |
+| Sports             | Sports Elite     |
+| Culinary           | Culinary Craft   |
+| Music              | Music Harmony    |
+| Security           | Security Guard   |
+| Academic           | Academic Scholar |
+| Teaching           | Teaching Mentor  |
+| Project Management | Project Leader   |
 
 ---
 
-## 📁 Project Structure
+# 🌐 Portfolio Generator
 
+Abyss automatically transforms resume data into a professional portfolio website.
+
+### Portfolio Sections
+
+* About Me
+* Skills
+* Experience
+* Projects
+* Certifications
+* Education
+* Contact Information
+
+---
+
+## Additional Features
+
+### Contact Actions
+
+* 📧 Email
+* 📱 WhatsApp
+* 📞 Call
+
+### Sharing
+
+* Public URL
+* QR Code Access
+* Social Sharing
+
+---
+
+# 🧪 ATS Optimization Engine
+
+The ATS Engine evaluates resumes against industry standards.
+
+### Analysis Categories
+
+* Keyword Coverage
+* Formatting Quality
+* Section Completeness
+* Skills Alignment
+* Experience Depth
+
+---
+
+## ATS Score Components
+
+| Factor     | Evaluation              |
+| ---------- | ----------------------- |
+| Keywords   | Match Quality           |
+| Skills     | Coverage                |
+| Experience | Relevance               |
+| Metrics    | Quantified Achievements |
+| Sections   | Completeness            |
+| Formatting | ATS Compatibility       |
+
+---
+
+# ⚖️ Bias Detection Engine
+
+Abyss incorporates an AI-powered fairness layer.
+
+### Bias Categories
+
+#### Gender Bias
+
+Detects:
+
+* Gendered language
+* Implicit stereotypes
+
+#### Age Bias
+
+Identifies:
+
+* Age references
+* Generational assumptions
+
+#### Subjective Language
+
+Flags:
+
+* Overly emotional descriptions
+* Non-measurable claims
+
+#### Photo Bias
+
+Warns users when images may influence hiring decisions.
+
+---
+
+## Visualization
+
+The system generates:
+
+* Resume heatmaps
+* Bias indicators
+* Improvement suggestions
+
+---
+
+# 📊 Career Insights Module
+
+Abyss helps users understand their career readiness.
+
+### Features
+
+#### Salary Estimation
+
+Provides salary ranges based on:
+
+* Domain
+* Skills
+* Experience
+
+---
+
+#### Job Match Analysis
+
+Suggests:
+
+* Relevant positions
+* Career pathways
+* Industry opportunities
+
+---
+
+#### Skill Gap Detection
+
+Identifies:
+
+* Missing skills
+* Improvement opportunities
+* Learning recommendations
+
+---
+
+# 🔗 Sharing & QR Ecosystem
+
+Abyss simplifies profile distribution.
+
+### QR Code Generation
+
+Generate QR codes for:
+
+* Resume PDF
+* CV PDF
+* Portfolio Website
+
+---
+
+### Social Sharing
+
+Supports:
+
+* LinkedIn
+* Naukri
+* Email Sharing
+
+---
+
+# 🏗️ System Architecture
+
+## Frontend Layer
+
+### Technologies
+
+* React
+* Tailwind CSS
+* CSS Modules
+
+### Responsibilities
+
+* User Interface
+* Dashboard Components
+* Resume Editor
+
+---
+
+## AI Layer
+
+### Components
+
+* Prompt Engine
+* ATS Analyzer
+* Bias Detection Engine
+* Suggestion Generator
+
+---
+
+## Data Layer
+
+### Stores
+
+* User Profiles
+* Resume Versions
+* Template Metadata
+
+---
+
+## Export Layer
+
+### Features
+
+* PDF Generation
+* QR Generation
+* Portfolio Publishing
+
+---
+
+# 🖥️ Application Modules
+
+The application contains multiple interconnected modules.
+
+### User Flow
+
+```text
+Landing Page
+      ↓
+Authentication
+      ↓
+Dashboard
+      ↓
+Template Selection
+      ↓
+Resume Creation
+      ↓
+ATS Analysis
+      ↓
+Bias Analysis
+      ↓
+Portfolio Generation
+      ↓
+Export & Sharing
 ```
+
+---
+
+# 📂 Project Structure
+
+```text
 src/
-  components/
-    ResumeEditor/
-    Templates/
-    ATS/
-    Bias/
-    Portfolio/
-    AI/
-    Shared/
-  data/
-    domainHeaders.js
-    templates.js
-    suggestions.js
-  pages/
-    Splash/
-    Dashboard/
-    Templates/
-    Editor/
-    Portfolio/
-  utils/
-    atsEngine.js
-    biasEngine.js
-    pdfExport.js
-    qr.js
+├── components/
+│   ├── ResumeEditor/
+│   ├── Templates/
+│   ├── ATS/
+│   ├── Bias/
+│   ├── Portfolio/
+│   ├── AI/
+│   └── Shared/
+│
+├── data/
+│   ├── domainHeaders.js
+│   ├── templates.js
+│   └── suggestions.js
+│
+├── pages/
+│   ├── Splash/
+│   ├── Dashboard/
+│   ├── Templates/
+│   ├── Editor/
+│   └── Portfolio/
+│
+└── utils/
+    ├── atsEngine.js
+    ├── biasEngine.js
+    ├── pdfExport.js
+    └── qr.js
 ```
 
 ---
 
-## ⚙️ Setup
+# 🔐 Authentication System
 
-```bash
-git clone https://github.com/yourusername/abyss
-cd abyss
-npm install
-npm run dev
-```
+Abyss supports secure user authentication.
 
----
+### Methods
 
-## 📦 Build
+* Google Sign-In
+* Email OTP Verification
 
-```bash
-npm run build
-```
+### Features
+
+* Profile Persistence
+* Session Management
+* User Data Protection
 
 ---
 
-## 🌐 Deployment
+# 📤 Export & Sharing
 
-Recommended platforms:
-- Vercel  
-- Netlify  
-- Firebase Hosting  
+Users can generate:
 
----
+### Documents
 
-## 🔐 Authentication
-- Google login  
-- Email OTP verification  
-- User profile persistence  
+* Resume PDF
+* CV PDF
 
----
+### Websites
 
-## 📤 Export & Sharing
-- Generate CV PDF  
-- Generate Resume PDF  
-- Generate Portfolio  
-- QR codes  
-- Share to LinkedIn  
-- Share to Naukri  
+* Personal Portfolio
+
+### QR Assets
+
+* Resume QR
+* CV QR
+* Portfolio QR
 
 ---
 
-## 🤖 AI Capabilities
+# 🤖 AI Capabilities
 
-Abyss AI can:
-- Suggest improvements  
-- Rewrite sections  
-- Auto-fill resume content  
-- Generate domain-specific data  
-- Detect bias  
-- Optimize ATS score  
+The Abyss AI Assistant can:
 
----
+### Content Generation
 
-## 📊 ATS Scoring Factors
-- Keywords  
-- Skills count  
-- Experience depth  
-- Metrics usage  
-- Section completeness  
-- Formatting quality  
+* Generate summaries
+* Rewrite achievements
+* Improve descriptions
 
----
+### Resume Optimization
 
-## ⚖️ Bias Detection Types
-- Gendered words  
-- Age indicators  
-- Subjective language  
-- Photo bias  
-- Exclusionary terms  
+* ATS improvements
+* Keyword recommendations
+* Formatting suggestions
+
+### Career Assistance
+
+* Skill recommendations
+* Job alignment
+* Industry insights
 
 ---
 
-## 🧭 Roadmap
-- Job matching engine  
-- Recruiter dashboard  
-- Cloud resume hosting  
-- Resume analytics  
-- AI rewriting  
-- Interview preparation AI  
+# 🚀 Future Roadmap
+
+Several enhancements are planned.
+
+## AI Enhancements
+
+* Advanced resume rewriting
+* AI interview preparation
+* Career coaching assistant
 
 ---
 
-## 🏁 Conclusion
+## Recruitment Features
 
-**Abyss transforms resume creation into an intelligent, fair, and adaptive experience** by combining AI assistance, ATS optimization, bias detection, and portfolio generation in one unified platform.
+* Recruiter dashboard
+* Resume analytics
+* Candidate insights
+
+---
+
+## Cloud Infrastructure
+
+* Resume hosting
+* Portfolio hosting
+* Analytics dashboard
+
+---
+
+## Job Ecosystem
+
+* Job matching engine
+* Internship recommendations
+* Application tracking
+
+---
+
+# 🎓 Learning Outcomes
+
+This project provided practical experience in:
+
+* Artificial Intelligence
+* Resume Analytics
+* ATS Optimization
+* UI/UX Design
+* React Development
+* Career Technology Solutions
+* Bias Detection Systems
+* Portfolio Automation
+
+---
+
+# 👩‍💻 Author
+
+## Annie Darling Kanmani A
+
+**Department of Artificial Intelligence and Data Science**
+
+SRM Madurai College for Engineering and Technology
+
+---
+
+# 📜 License
+
+This project is intended for:
+
+* Educational Purposes
+* Academic Demonstrations
+* Research Projects
+* Career Technology Innovation
+
+---
+
+# 🌟 Conclusion
+
+Abyss reimagines resume creation as an intelligent, adaptive, and data-driven experience. By combining AI-powered writing assistance, ATS optimization, bias detection, portfolio generation, and career insights into a single platform, the project empowers users to build stronger professional identities and improve their employment opportunities.
+
+The platform demonstrates how artificial intelligence can be leveraged not only to automate resume creation but also to promote fairness, personalization, and career growth in modern recruitment ecosystems.
+
+<div align="center">
+
+### 🌌 Build Smarter Resumes → 🚀 Unlock Better Opportunities → 🌍 Shape Your Career Future
+
+</div>
