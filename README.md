@@ -332,6 +332,25 @@ Warns users when images may influence hiring decisions.
 
 ---
 
+### Screenshots
+
+<img width="1276" height="697" alt="image" src="https://github.com/user-attachments/assets/1b26b639-701b-451d-8560-5e5d1304851a" />
+
+<img width="1275" height="695" alt="image" src="https://github.com/user-attachments/assets/79938315-453a-4488-a788-c7a71073259d" />
+
+<img width="1279" height="699" alt="image" src="https://github.com/user-attachments/assets/41dc2ed4-ca9e-425d-8af6-2b6af396571d" />
+
+<img width="1278" height="700" alt="image" src="https://github.com/user-attachments/assets/87eb2934-62eb-4e88-ab54-a97ad055fbf6" />
+
+<img width="1279" height="697" alt="image" src="https://github.com/user-attachments/assets/d7069e3b-df9a-4d45-b08a-4b4ff8696dee" />
+
+<img width="1275" height="692" alt="image" src="https://github.com/user-attachments/assets/b41844bf-2441-4ce5-9c95-4c0d963ca6a3" />
+
+<img width="1275" height="696" alt="image" src="https://github.com/user-attachments/assets/5d70f6c2-d5ca-4caf-a489-f1a3a02a5334" />
+
+
+
+---
 ## Visualization
 
 The system generates:
